@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yuvraj34275@gmail.com**
 
-- ⚡ Fun fact **Dengey**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
