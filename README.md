@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Muthyala</h1>
-<h3 align="center">"Data Scientist | 🔍 AI/ML Explorer | Training algorithms, but keeping my job safe (for now) 😅 | Forecasting trends, except life’s (still working on that one tho) 😆"</h3>
+<h3 align="center">"Data Scientist | 🤖 AI/ML Explorer | Training algorithms, but keeping my job safe (for now) 😅 | Forecasting trends, except life’s (still working on that one tho) 😆"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj0014&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj0014" /> </p>
 
