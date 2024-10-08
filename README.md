@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yuvraj34275@gmail.com**
 
-- ⚡ Fun fact **Passionate about data and deeply interested in international relations**
+- ⚡ Fun fact **I Love Geopolitics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
