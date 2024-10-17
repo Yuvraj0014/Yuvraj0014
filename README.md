@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **HuggingFace and LangChain**
 
-- 🌱 I’m currently learning **Streamlit and Genetarive AI **
+- 🌱 I’m currently learning **Streamlit and Genetarive AI**
 
 - 📫 How to reach me **yuvraj34275@gmail.com**
 
