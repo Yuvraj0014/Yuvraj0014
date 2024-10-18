@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yuvraj34275@gmail.com**
 
-- ⚡ Fun fact **I Love Geopolitics and international relations and love **
+- ⚡ Fun fact **I Love Geopolitics and international relations and love**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
