@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Muthyala</h1>
-<h3 align="center">Data Scientist | 🤖 AI/ML Explorer |🧠 Neural Network Nurturer | Teaching AI to think, but it still can't decide what to watch on Netflix 🍿 | Turning data into insights, and occasionally into memes 📊😂 |Forecasting trends, except life’s (still working on that one tho) 😆| Coffee ☕ → Code → Repeat</h3>
+<h3 align="center">Data Scientist | 🤖 AI/ML Explorer |🧠 Neural Network Nurturer | Teaching AI to think, but it still can't decide what to watch on Netflix 🍿 | Turning data into insights, and occasionally into memes 📊😂 | Forecasting trends, except life’s (still working on that one tho) 😆| Coffee ☕ → Code → Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj0014&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj0014" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yuvrajmuthyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajmuthyala" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yuvrajmuthyala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvrajmuthyala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuvrajmuthyala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvrajmuthyala/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
